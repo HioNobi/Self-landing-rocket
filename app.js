@@ -96,8 +96,8 @@ audio.play();
 
 loop = function() {
     //Set source for images
-    rocket.src = "rocket.png";
-    water.src = "water.png";
+    rocket.src = "rocket.PNG";
+    water.src = "water.PNG";
 
     //If falcon 9 falling below 100px
     if (falcon_9.y > 100 && !falcon_9.cut_off) {
