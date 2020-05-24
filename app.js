@@ -12,7 +12,7 @@ falcon_9 = {
   height:80,
   jumping:true,
   width:10,
-  x: 900, // center of the canvas
+  x: -100, // center of the canvas
   x_velocity:0,
   y:0,
   y_velocity:0,
